@@ -1,0 +1,35 @@
+.navbar .navbar-brand span,
+.about span,
+.menu span,
+.contact span {
+    color:burlywood;
+}
+
+.about{
+    padding: 6rem;
+}
+.menu{
+    padding: 3rem;
+}
+
+.hero{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('../img/sampah-medis.avif');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    filter: brightness(50%); 
+}
+
+.navbar-logo{
+    height: 40px;
+    width: auto;
+}
+
+.infeksius-logo {
+    height: 200px;
+    width: auto;
+}
+
