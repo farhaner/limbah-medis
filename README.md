@@ -1,1 +1,0 @@
-# limbah-medis
